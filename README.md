@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Puskarbalayar7
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate ... 
+- 👀 I’m interested in honesty
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate new companies
 - 📫 How to reach me
   - instagram- blyrpuscar
   - linkedin- Puscar Balayar
